@@ -1,0 +1,1 @@
+Meu primeiro projeto no GitHub. É uma calculadora de gorjetas criada a partir das aulas de Start na Carreira do One Bit Code.
